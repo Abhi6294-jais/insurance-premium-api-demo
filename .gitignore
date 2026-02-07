@@ -1,0 +1,25 @@
+# Virtual environments
+meyenv/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Model artifacts
+model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
